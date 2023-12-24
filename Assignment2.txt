@@ -1,0 +1,22 @@
+1-what is a programming language?
+Ans- Programming languages are used to write computer programs and software, design websites, create apps, develop operating systems, control spacecraft, and analyze data.  
+2-Why do we need a programming language?
+Ans- Programming languages are essential because they provide a structured way for humans to give instructions to the computer. Without programming languages, it would be difficult and time consuming to write code that computers understand and execute.
+3-What are the features of Java?
+Ans- There are several features of Java among them are-
+a> Simple- it is simple and easy to write code in Java for large programs.
+b> OOPs- OOPs concepts are used in it to implement real world entities into the programming.
+c> Portable- it is a portable language i.e., we need to write only once and the same code can run on different systems.
+d> Platform independent- java language is a platform-independent language because when we execute it generates byte code that can be executed at different systems.
+e> Secured- java language is very secured because it does not use any explicit pointer. and Java runs inside a virtual machine sandbox. and it also determines what resources a class can access. 
+4-what is an object?
+Ans- An object is an instance of a class or entity that has a state and behavior is known as an object. When a class is defined no memory is allocated but when it is instantiated memory is allocated.
+5-what is a class?
+Ans- It is a user defined data type, which holds its own data members and member functions, which can be accessed and used by creating an instance of that class. A class is like a blueprint for an object.
+6-Explain the main() method in java.
+Ans- The main() method is the starting point for JVM to start the execution of a program. Without the main() method, JVM will not execute the program. The syntax of the main() method is:
+      public static void main(String []args)  
+      {
+        //body;
+      }
+
